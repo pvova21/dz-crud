@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz-crud/static/css/main.5aa77cb0.css",
+    "main.js": "/dz-crud/static/js/main.6a495eab.js",
+    "static/js/787.a9d0d0c1.chunk.js": "/dz-crud/static/js/787.a9d0d0c1.chunk.js",
+    "index.html": "/dz-crud/index.html",
+    "main.5aa77cb0.css.map": "/dz-crud/static/css/main.5aa77cb0.css.map",
+    "main.6a495eab.js.map": "/dz-crud/static/js/main.6a495eab.js.map",
+    "787.a9d0d0c1.chunk.js.map": "/dz-crud/static/js/787.a9d0d0c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa77cb0.css",
+    "static/js/main.6a495eab.js"
+  ]
+}
